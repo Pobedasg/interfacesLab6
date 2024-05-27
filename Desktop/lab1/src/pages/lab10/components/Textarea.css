@@ -1,0 +1,23 @@
+.textarea-container {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+}
+
+.textarea-wrapper {
+  display: flex;
+  align-items: center;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 5px;
+}
+
+.textarea-wrapper .icon {
+  margin: 0 5px;
+}
+
+.textarea-wrapper textarea {
+  flex-grow: 1;
+  border: none;
+  outline: none;
+}
