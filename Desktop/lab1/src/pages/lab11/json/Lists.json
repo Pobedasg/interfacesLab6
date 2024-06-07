@@ -1,0 +1,56 @@
+{"Specialty":[
+  {
+    "code": "0",
+    "name": "Computer Science"
+  },
+  {
+    "code": "1",
+    "name": "Mathematics"
+  },
+  {
+    "code": "2",
+    "name": "Physics"
+  },
+  {
+    "code": "3",
+    "name": "Chemistry"
+  },
+  {
+    "code": "4",
+    "name": "Biology"
+  }
+],
+"Student":[
+  {
+    "name": "Student1",
+    "age": "20",
+    "grade": "90",
+    "specialty_code": "0"
+  },
+  {
+    "name": "Student2",
+    "age": "21",
+    "grade": "85",
+    "specialty_code": "1"
+  },
+  {
+    "name": "Student3",
+    "age": "22",
+    "grade": "88",
+    "specialty_code": "2"
+  },
+  {
+    "name": "Student4",
+    "age": "23",
+    "grade": "92",
+    "specialty_code": "3"
+  },
+  {
+    "name": "Student5",
+    "age": "24",
+    "grade": "87",
+    "specialty_code": "4"
+  }
+]
+}
+
